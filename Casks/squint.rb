@@ -1,6 +1,6 @@
 cask "squint" do
-  version "0.9.0"
-  sha256 "e10de19f9563127c7ab0220bd6fbccdd096dde16b54d4ed12e8f72fd18e983e6"
+  version "0.9.1"
+  sha256 "1d0a05128f001b99a47dfe9500952124f29dd8982187cc3574357e4c465acf50"
 
   url "https://github.com/mdws-org/squint/releases/download/v#{version}/Squint-#{version}.dmg"
   name "Squint"
